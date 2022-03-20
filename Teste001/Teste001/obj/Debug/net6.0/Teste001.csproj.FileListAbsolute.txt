@@ -1,0 +1,15 @@
+C:\Users\nebbe\Desktop\Arquivos\NewREPO\EXERCICIOS\Teste001\Teste001\obj\Debug\net6.0\Teste001.csproj.AssemblyReference.cache
+C:\Users\nebbe\Desktop\Arquivos\NewREPO\EXERCICIOS\Teste001\Teste001\obj\Debug\net6.0\Teste001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nebbe\Desktop\Arquivos\NewREPO\EXERCICIOS\Teste001\Teste001\obj\Debug\net6.0\Teste001.AssemblyInfoInputs.cache
+C:\Users\nebbe\Desktop\Arquivos\NewREPO\EXERCICIOS\Teste001\Teste001\obj\Debug\net6.0\Teste001.AssemblyInfo.cs
+C:\Users\nebbe\Desktop\Arquivos\NewREPO\EXERCICIOS\Teste001\Teste001\obj\Debug\net6.0\Teste001.csproj.CoreCompileInputs.cache
+C:\Users\nebbe\Desktop\Arquivos\NewREPO\EXERCICIOS\Teste001\Teste001\bin\Debug\net6.0\Teste001.exe
+C:\Users\nebbe\Desktop\Arquivos\NewREPO\EXERCICIOS\Teste001\Teste001\bin\Debug\net6.0\Teste001.deps.json
+C:\Users\nebbe\Desktop\Arquivos\NewREPO\EXERCICIOS\Teste001\Teste001\bin\Debug\net6.0\Teste001.runtimeconfig.json
+C:\Users\nebbe\Desktop\Arquivos\NewREPO\EXERCICIOS\Teste001\Teste001\bin\Debug\net6.0\Teste001.dll
+C:\Users\nebbe\Desktop\Arquivos\NewREPO\EXERCICIOS\Teste001\Teste001\bin\Debug\net6.0\Teste001.pdb
+C:\Users\nebbe\Desktop\Arquivos\NewREPO\EXERCICIOS\Teste001\Teste001\obj\Debug\net6.0\Teste001.dll
+C:\Users\nebbe\Desktop\Arquivos\NewREPO\EXERCICIOS\Teste001\Teste001\obj\Debug\net6.0\refint\Teste001.dll
+C:\Users\nebbe\Desktop\Arquivos\NewREPO\EXERCICIOS\Teste001\Teste001\obj\Debug\net6.0\Teste001.pdb
+C:\Users\nebbe\Desktop\Arquivos\NewREPO\EXERCICIOS\Teste001\Teste001\obj\Debug\net6.0\Teste001.genruntimeconfig.cache
+C:\Users\nebbe\Desktop\Arquivos\NewREPO\EXERCICIOS\Teste001\Teste001\obj\Debug\net6.0\ref\Teste001.dll
