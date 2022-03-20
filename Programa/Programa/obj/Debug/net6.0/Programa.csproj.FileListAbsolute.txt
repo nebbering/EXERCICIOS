@@ -1,0 +1,15 @@
+C:\Users\nebbe\Desktop\Arquivos\NewREPO\EXERCICIOS\Programa\Programa\bin\Debug\net6.0\Programa.exe
+C:\Users\nebbe\Desktop\Arquivos\NewREPO\EXERCICIOS\Programa\Programa\bin\Debug\net6.0\Programa.deps.json
+C:\Users\nebbe\Desktop\Arquivos\NewREPO\EXERCICIOS\Programa\Programa\bin\Debug\net6.0\Programa.runtimeconfig.json
+C:\Users\nebbe\Desktop\Arquivos\NewREPO\EXERCICIOS\Programa\Programa\bin\Debug\net6.0\Programa.dll
+C:\Users\nebbe\Desktop\Arquivos\NewREPO\EXERCICIOS\Programa\Programa\bin\Debug\net6.0\Programa.pdb
+C:\Users\nebbe\Desktop\Arquivos\NewREPO\EXERCICIOS\Programa\Programa\obj\Debug\net6.0\Programa.csproj.AssemblyReference.cache
+C:\Users\nebbe\Desktop\Arquivos\NewREPO\EXERCICIOS\Programa\Programa\obj\Debug\net6.0\Programa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nebbe\Desktop\Arquivos\NewREPO\EXERCICIOS\Programa\Programa\obj\Debug\net6.0\Programa.AssemblyInfoInputs.cache
+C:\Users\nebbe\Desktop\Arquivos\NewREPO\EXERCICIOS\Programa\Programa\obj\Debug\net6.0\Programa.AssemblyInfo.cs
+C:\Users\nebbe\Desktop\Arquivos\NewREPO\EXERCICIOS\Programa\Programa\obj\Debug\net6.0\Programa.csproj.CoreCompileInputs.cache
+C:\Users\nebbe\Desktop\Arquivos\NewREPO\EXERCICIOS\Programa\Programa\obj\Debug\net6.0\Programa.dll
+C:\Users\nebbe\Desktop\Arquivos\NewREPO\EXERCICIOS\Programa\Programa\obj\Debug\net6.0\refint\Programa.dll
+C:\Users\nebbe\Desktop\Arquivos\NewREPO\EXERCICIOS\Programa\Programa\obj\Debug\net6.0\Programa.pdb
+C:\Users\nebbe\Desktop\Arquivos\NewREPO\EXERCICIOS\Programa\Programa\obj\Debug\net6.0\Programa.genruntimeconfig.cache
+C:\Users\nebbe\Desktop\Arquivos\NewREPO\EXERCICIOS\Programa\Programa\obj\Debug\net6.0\ref\Programa.dll

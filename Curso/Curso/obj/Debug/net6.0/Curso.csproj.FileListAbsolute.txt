@@ -1,0 +1,15 @@
+C:\Users\nebbe\Desktop\Arquivos\NewREPO\EXERCICIOS\Curso\Curso\bin\Debug\net6.0\Curso.exe
+C:\Users\nebbe\Desktop\Arquivos\NewREPO\EXERCICIOS\Curso\Curso\bin\Debug\net6.0\Curso.deps.json
+C:\Users\nebbe\Desktop\Arquivos\NewREPO\EXERCICIOS\Curso\Curso\bin\Debug\net6.0\Curso.runtimeconfig.json
+C:\Users\nebbe\Desktop\Arquivos\NewREPO\EXERCICIOS\Curso\Curso\bin\Debug\net6.0\Curso.dll
+C:\Users\nebbe\Desktop\Arquivos\NewREPO\EXERCICIOS\Curso\Curso\bin\Debug\net6.0\Curso.pdb
+C:\Users\nebbe\Desktop\Arquivos\NewREPO\EXERCICIOS\Curso\Curso\obj\Debug\net6.0\Curso.csproj.AssemblyReference.cache
+C:\Users\nebbe\Desktop\Arquivos\NewREPO\EXERCICIOS\Curso\Curso\obj\Debug\net6.0\Curso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nebbe\Desktop\Arquivos\NewREPO\EXERCICIOS\Curso\Curso\obj\Debug\net6.0\Curso.AssemblyInfoInputs.cache
+C:\Users\nebbe\Desktop\Arquivos\NewREPO\EXERCICIOS\Curso\Curso\obj\Debug\net6.0\Curso.AssemblyInfo.cs
+C:\Users\nebbe\Desktop\Arquivos\NewREPO\EXERCICIOS\Curso\Curso\obj\Debug\net6.0\Curso.csproj.CoreCompileInputs.cache
+C:\Users\nebbe\Desktop\Arquivos\NewREPO\EXERCICIOS\Curso\Curso\obj\Debug\net6.0\Curso.dll
+C:\Users\nebbe\Desktop\Arquivos\NewREPO\EXERCICIOS\Curso\Curso\obj\Debug\net6.0\refint\Curso.dll
+C:\Users\nebbe\Desktop\Arquivos\NewREPO\EXERCICIOS\Curso\Curso\obj\Debug\net6.0\Curso.pdb
+C:\Users\nebbe\Desktop\Arquivos\NewREPO\EXERCICIOS\Curso\Curso\obj\Debug\net6.0\Curso.genruntimeconfig.cache
+C:\Users\nebbe\Desktop\Arquivos\NewREPO\EXERCICIOS\Curso\Curso\obj\Debug\net6.0\ref\Curso.dll

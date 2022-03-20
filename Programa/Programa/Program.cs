@@ -1,12 +1,12 @@
 ﻿using System;
 
-namespace Aplicacao
+namespace Curso
 {
-    class Programa
+    class Pgr
     {
         static void Main(string[] args)
         {
-           Console.WriteLine("Hello");
+            Console.WriteLine("Olá!");
         }
     }
 }
